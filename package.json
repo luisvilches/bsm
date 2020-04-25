@@ -1,0 +1,28 @@
+{
+  "name": "bsm",
+  "version": "0.0.1",
+  "description": "Bukitech System Manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "luis vilches <luis@bukitech.cl>",
+  "license": "ISC",
+  "dependencies": {
+    "connect-multiparty": "^2.2.0",
+    "cors": "latest",
+    "express": "^4.17.1",
+    "heml": "latest",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.5",
+    "mongoose-timestamp": "latest",
+    "nodemailer": "latest",
+    "nodemailer-smtp-transport": "latest",
+    "servue": "^2.2.1",
+    "vue": "^2.6.11",
+    "vue-server-renderer": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

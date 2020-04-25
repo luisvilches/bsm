@@ -1,0 +1,1 @@
+module.exports = { host: 'mail.bukitech.cl', port: 465, secure: true, auth: { user: 'no-reply@bukitech.cl', pass: '4*t;JXx,kf19' }, tls: { rejectUnauthorized: false } };
